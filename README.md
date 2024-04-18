@@ -1,26 +1,39 @@
-# WindowsToolBox
-WindowsToolBox这是一个电脑的工具箱程序
+<div align="center">
+    <h1>TimedShutdown定时关机</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/TimedShutdown?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/TimedShutdown?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/TimedShutdown?logo=python&style=for-the-badge">
+<img src="https://github.com/JasonYANG170/TimedShutdown/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
+	
+这是一项基于MFC的定时关机GUI程序
 
-启动计划，项目已经发版：
+<br>
 
-2023年1月17日发布首个V1.0.0 BETA全功能预览版。（因系统清理误删项目源码，全功能版本**暂时停止维护**）
+</div>
 
-2023年1月22日发布V1.3.2 Lite轻量化版本(仅支持定时关机）。
-**轻量版合并到"健康守护"项目**
+## 🚧本项目已暂停维护
+## 支持系统
+**WindowsXP-Windows11**  
+**X86架构**
+## 功能  
+#### Lite轻量化
+- ✅ 定时关机
+- ✅ 更新跳转
+#### 全功能版本
+- 🚧 激活查询
+- 🚧 木马删除工具
+- 🚧 系统信息
+- 🚧 磁盘检测
+- 🚧 设备管理
+- 🚧 磁盘清理
+- 🚧 资源管理
+- 🚧 网站延时查询
+- 🚧 网站IP查询
+- 🚧 路由监测
+- 🚧 本地IP查询
+- 🚧 静态IP查询
+- 🚧 控制面板
 
-发布新项目<自动深色模式>可自定义时间定时切换深浅模式，已在新板块发布。
-# 支持功能
-**全功能版本：**
-
-定时关机，截图，计算机，激活查询，放大镜，控制面板，木马删除工具，系统信息，性能监视器，
-
-磁盘检测，设备管理，磁盘清理，资源管理，网站延时查询，网站IP查询，路由监测，本地IP查询，
-
-静态IP查询，更新跳转功能。
-
-**Lite轻量化版本：**
-
-定时关机，更新跳转。
 # 使用说明
 在右侧Releases发布区下载安装程序，按步骤安装即可。
 
