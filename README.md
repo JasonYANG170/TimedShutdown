@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/github/license/JasonYANG170/TimedShutdown?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/TimedShutdown?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/count/JasonYANG170/TimedShutdown?logo=python&style=for-the-badge">
-<img src="https://github.com/JasonYANG170/TimedShutdown/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
 	
 这是一项基于MFC的定时关机GUI程序
 
